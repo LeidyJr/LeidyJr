@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **LeidyJr/LeidyJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Leidy 👋 :woman_technologist:		
+
+I'm a software engineering student who is passionate about learn new technologies and improve my software development skills . Some technologies I enjoy working with include Python, Django and C++. 
+
+
+## My GitHub stats :chart_with_upwards_trend: : 
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LeidyJr&show_icons=true&theme=bear" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeidyJr&layout=compact&show_icons=true&theme=bear"" /></p>
