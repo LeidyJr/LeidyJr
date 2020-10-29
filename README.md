@@ -21,5 +21,5 @@ I'm a software engineering student who is passionate about learn new technologie
 
 ## My GitHub stats :chart_with_upwards_trend: : 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LeidyJr&show_icons=true&theme=bear" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LeidyJr&show_icons=true&theme=bear&count_private=true" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeidyJr&layout=compact&show_icons=true&theme=bear"" /></p>
